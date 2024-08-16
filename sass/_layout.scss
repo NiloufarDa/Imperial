@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box !important;
+    padding: 0;
+    margin: 0;
+}
+[lang*="en"]{
+    direction: ltr !important;
+}
+.ltr{
+    direction: ltr !important;
+}
+a{
+    text-decoration: none !important;
+}
+ul{
+    list-style: none;
+}
+// p{
+//     text-align: justify;
+// }
+img{
+    max-width: 100% !important;
+}
